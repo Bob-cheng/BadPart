@@ -1,0 +1,3 @@
+# BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks
+
+This is the official PyTorch implementation of our paper "BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks". The code will be released soon...
