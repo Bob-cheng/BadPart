@@ -1,0 +1,1 @@
+{"version":3,"file":"constants.js","sourceRoot":"","sources":["../../src/selfie_segmentation_mediapipe/constants.ts"],"names":[],"mappings":";;;AAkBa,QAAA,kDAAkD,GACT;IAChD,OAAO,EAAE,WAAW;IACpB,SAAS,EAAE,SAAS;CACrB,CAAC;AAEO,QAAA,yDAAyD,GACT;IACvD,cAAc,EAAE,KAAK;CACtB,CAAC"}

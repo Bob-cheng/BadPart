@@ -1,0 +1,17 @@
+*.pth
+__pycache__
+temp_*
+*.npz
+*.tar
+*.pth.tar
+visualization
+patch_saved
+*.pt
+
+!nodejs_depthe/node_modules/
+nodejs_depthe/node_modules/*
+!nodejs_depthe/node_modules/@tensorflow-models/
+
+FlowNetworks/flow_models/pretrained/FlowNet2-C_checkpoint.pth.tar
+FlowNetworks/flow_models/pretrained/FlowNet2_checkpoint.pth.tar
+FlowNetworks/flow_models/pretrained/pwc_net_chairs.pth.tar
